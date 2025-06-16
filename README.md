@@ -18,7 +18,7 @@ I’m currently focused on enhancing my skills through hands-on projects and rea
 
 ## Technical Skills
 
-**Programming Languages:** Python, SQL, HTML, CSS, JavaScript  
+**Programming Languages:** Python, SQL, JavaScript  
 **Libraries & Tools:** Pandas, NumPy, Matplotlib, Seaborn, Scikit-learn, VS Code, Git, GitHub, Jupyter Notebook  
 **Core Concepts:** Data Cleaning, Feature Engineering, Exploratory Data Analysis (EDA), Classification Models, Model Tuning  
 **Other Skills:** Problem Solving, Logical Thinking, Independent Learning

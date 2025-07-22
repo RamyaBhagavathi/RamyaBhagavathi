@@ -32,15 +32,6 @@ Developed a classification model to identify customers likely to churn using log
 Enhanced model recall from 0.51 to 0.73 by adjusting the decision threshold.  
 Focused on feature importance, data preprocessing, and interpretability.
 
-### Emotion-Based Playlist Generator
-Created a system that recommends music based on user emotion derived from text input.  
-Implemented text preprocessing, emotion classification, and playlist generation using Python.
-
-### Credit Card Fraud Detection System
-Built and evaluated classification models to detect fraudulent credit card transactions.  
-Improved model performance through feature engineering, parameter tuning, and ensemble methods.  
-Emphasized high recall to reduce false negatives in fraud detection.
-
 ---
 
 ## Currently Working On
